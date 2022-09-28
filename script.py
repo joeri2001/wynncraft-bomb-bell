@@ -5,7 +5,7 @@ import requests
 # replace *path to folder* with the path to your .minecraft\logs\latest.log folder
 infile = r"*path to folder*"
 
-array = []
+array = ['']
 bomb_bell_check = ["[Bomb Bell]"]
 
 last_bomb = any
